@@ -1,7 +1,7 @@
 Zenburn for Mou
 ===============
 
-This is a [Zenburn](http://slinky.imukuppi.org/zenburnpage/) theme for Mou, an OSX [Markdown](http://en.wikipedia.org/wiki/Markdown) editor.
+This is a [Zenburn](http://slinky.imukuppi.org/zenburnpage/) theme for [Mou](http://mouapp.com/), an OSX [Markdown](http://en.wikipedia.org/wiki/Markdown) editor.
 
 It's still a little wonky, but I'm liking it more and more. 
 
